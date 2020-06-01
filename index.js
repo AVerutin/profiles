@@ -6,3 +6,6 @@ for (let row of workShift) {
     console.log(row);
 };
 
+for (row of workDelays) {
+    console.log(row);
+};
